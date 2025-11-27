@@ -1,6 +1,6 @@
 # Awesome Iran
 
-A collection of awesome projects about Iran, its culture, literature and Persian language, history, and more.
+A collection of projects about Iran — its culture, literature, Persian language, history, and more.
 
 ## Geography and Maps
 
