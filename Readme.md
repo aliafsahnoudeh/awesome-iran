@@ -2,9 +2,9 @@
 
 A collection of projects about Iran — its culture, literature, Persian language, history, and more.
 
-## Geography and Maps
+## Nature and Environment
 
-- [Is in Iran](https://github.com/aliafsahnoudeh/is-in-iran): A lightweight Python library that checks whether a given geographic poin (latitude, longitude) lies inside the borders of Iran.
+- [Iran wildfire MCP Server](https://github.com/aliafsahnoudeh/iran-wildfire-mcp-server): A Model Context Provider for Iran Wildfire Detection.
 
 ## The Persian Language and Literature
 
@@ -21,3 +21,7 @@ A collection of projects about Iran — its culture, literature, Persian languag
 ### Mobile Apps
 
 - [Ferdowsi's poems for Android](https://play.google.com/store/apps/details?id=air.com.arsnetworks.poems.ferdosi): Ferdowsi software is a collection of poems that have been collected with great effort.
+
+## Geography and Maps
+
+- [Is in Iran](https://github.com/aliafsahnoudeh/is-in-iran): A lightweight Python library that checks whether a given geographic poin (latitude, longitude) lies inside the borders of Iran.
