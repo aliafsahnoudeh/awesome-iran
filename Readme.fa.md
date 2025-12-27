@@ -4,7 +4,7 @@
 
 ## محیط زیست و طبیعت
 
-- [Iran wildfire MCP Server](https://github.com/aliafsahnoudeh/iran-wildfire-mcp-server): یک ارائه‌دهنده مدل کانتکس برای تشخیص آتش‌سوزی در ایران.
+- [wildfire MCP Server](https://github.com/aliafsahnoudeh/wildfire-mcp-server): یک ارائه‌دهنده مدل کانتکس برای تشخیص آتش‌سوزی در ایران.
 
 ## زبان و ادبیات پارسی
 

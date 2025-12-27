@@ -2,9 +2,11 @@
 
 A collection of projects about Iran — its culture, literature, Persian language, history, and more.
 
+نسخه فارسی: [Readme.fa.md](Readme.fa.md)
+
 ## Nature and Environment
 
-- [Iran wildfire MCP Server](https://github.com/aliafsahnoudeh/iran-wildfire-mcp-server): A Model Context Provider for Iran Wildfire Detection.
+- [ٌwildfire MCP Server](https://github.com/aliafsahnoudeh/wildfire-mcp-server): A Model Context Provider for Wildfire Detection focused on Iran.
 
 ## The Persian Language and Literature
 
